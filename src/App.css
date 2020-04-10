@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(0, 13, 73);
+    margin: 0px;
+}
+
+.textFooter {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin: 0px;
+    font-family: 'Varela Round', sans-serif;
+}

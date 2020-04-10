@@ -1,5 +1,17 @@
 .baseMapOptions {
     height: 100%;
     width: 100%;
-    border: 1px solid red;
+    background-image: url('../../assets/worldMapBackground.svg');
+    background-size: cover;
+}
+
+.imageOptions {
+    height: 45%;
+    width: 100%;
+}
+
+.rowOptions {
+    border-top: 1.5px solid rgb(238, 234, 5);
+    border-bottom: 1.5px solid rgb(238, 234, 5);
+    background-color: rgba(21, 45, 97, 0.479);
 }
